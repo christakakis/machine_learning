@@ -5,7 +5,7 @@
 
 ### Briefly, the repo contains:
 
-  • **Supervised Learning - Classification.** Comparing different models on numerical data of financial indicators for businesses in order to classify them as bankrupt or not
+  • **Supervised Learning - Classification.** Comparing different models on numerical data of financial indicators for businesses in order to classify them as bankrupt or not.
   
   • **Computer Vision - Classification.** Implemenation of Bag of Visual Words (BoVW) technique for an image dataset (Mammals Classication).
   
