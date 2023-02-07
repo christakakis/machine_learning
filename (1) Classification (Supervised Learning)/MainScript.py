@@ -1,8 +1,5 @@
 '''
 Panagiotis Christakakis
-AIDA, Dept. of Apllied Informatics, UoM
-aid23004@uom.edu.gr
-ID: aid23004
 '''
 
 ''' Section(1) - Library Imports '''
