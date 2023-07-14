@@ -5,11 +5,7 @@ This repository contains Python code for applying the Bag of Visual Words techni
 
 ### Detailed Description
 
-In this section, we will focus on applying the Bag of Visual Words (BoVW) technique to a dataset of your choice for image classification. The following question needs to be addressed:
-
-**Question 1: Bag of Visual Words Image Classification**
-
-You will apply the BoVW technique to a dataset with at least three categories for classification. Include relevant links and descriptions of the dataset in the report.
+In this section, we will focus on applying the Bag of Visual Words (BoVW) technique to a dataset of your choice for image classification. The choosen dataset is [Mammals Classification](https://www.kaggle.com/datasets/anirudhg15/mammals-classification).
 
 Additional requirements for the implementation include:
 
@@ -26,5 +22,12 @@ A comparative evaluation of the results from the individual experiments is prese
 Please note that the dataset we choose had a maximum of 1000 images (combined for train and test).
 
 For your convenience, code tested in Python 3.6.7 is provided. The following versions of OpenCV were used:
-    pip install opencv-python==3.4.2.16
-    pip install opencv-contrib-python==3.4.2.16
+
+    #pip install opencv-python==3.4.2.16
+    #pip install opencv-contrib-python==3.4.2.16
+
+---
+
+This repository was initially created to store my personal Python codes but is also available to others interested in similar projects. The codes contained in this repo were specifically developed for a Machine Learning and Natural Language Processing course in my MSc program, as part of an image classification and data analysis project.
+
+Please note that the data used in this repository belongs to their respective owners, and the repository's purpose is to showcase analytical skills and code implementation.
