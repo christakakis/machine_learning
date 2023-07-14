@@ -1,5 +1,5 @@
 # Classification (Computer Vision - BoVW)
-# Image Classification using Bag of Visual Words
+## Image Classification using Bag of Visual Words
 
 This repository contains Python code for applying the Bag of Visual Words technique to image classification using OpenCV libraries. The goal is to benchmark alternative implementations and evaluate their performance.
 
